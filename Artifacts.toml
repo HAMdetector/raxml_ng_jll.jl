@@ -1,0 +1,9 @@
+[[raxml_ng]]
+arch = "x86_64"
+git-tree-sha1 = "53919bdab0e82d453572d895887e003e92ce9c38"
+libc = "glibc"
+os = "linux"
+
+    [[raxml_ng.download]]
+    sha256 = "02702b41664ccb925a728ada7b8ce2396fa2969a4589e4d8f243e29034d0e740"
+    url = "https://github.com/HAMdetector/raxml_ng_jll.jl/releases/download/raxml_ng-v1.0.2+0/raxml_ng.v1.0.2.x86_64-linux-gnu.tar.gz"
